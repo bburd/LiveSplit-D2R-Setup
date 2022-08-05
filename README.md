@@ -2,6 +2,8 @@
 
 This includes a layout for real time as well as a layout for game time and D2R splits for use with LiveSplit, and sound files for start, stop, pause etc.
 
+![alt text](https://i.imgur.com/Nitw9Eo.png) ![alt text](https://i.imgur.com/XrjSFOS.png)
+
 To use a layout open your LiveSplit program, right click it and select Open Layout -> Choose From File... -> In here look for Layouts folder
 
 The D2R_Real_Blk is only with the real time.
