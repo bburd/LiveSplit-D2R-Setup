@@ -15,3 +15,15 @@ The BLANK_Diablo II Resurrected - Any% Baal is a blank split template with the 5
 
 If sounds don't work; right click the LiveSplit program select Edit Layout -> At bottom of list double click Sound Effects
 Change the sound effects to the proper file location - the sounds are in Sounds folder..........
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LiveSplit - http://livesplit.org/downloads/
+
+LiveSplit.Server - https://github.com/LiveSplit/LiveSplit.Server/releases
+
+DiabloRun - https://github.com/DiabloRun/diablorun-igt/releases/tag/21.10.18-pre
+
+Written Guide - https://www.speedrun.com/d2r/thread/t0ujo/1#m1wr0
+
+I did not create any of this, all credit goes to the original creators.
